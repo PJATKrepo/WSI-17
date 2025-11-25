@@ -7,12 +7,12 @@ This repository contains all my laboratory work, assignments, and projects for t
 ## 📌 Course Overview
 
 * **Course Code:** `WSI-17`
-* **Instructor/Lecturer:** Piotr Tronczyk
+* **Instructor; Lecturer:** Piotr Tronczyk; Piotr Gago
 * **Key Focus Areas:**
-    * [KEY TOPIC 1, e.g., Advanced SQL Queries (JOINs, Subqueries, CTEs)]
-    * [KEY TOPIC 2, e.g., Database Design and Normalization (1NF, 2NF, 3NF)]
-    * [KEY TOPIC 3, e.g., Transaction Management and Indexing]
-    * [KEY TOPIC 4, e.g., Stored Procedures and Triggers]
+    * [KEY TOPIC 1, e.g., Advanced Excel using (Functions, Graphs, Macros)]
+    * [KEY TOPIC 2, e.g., Database Design (Microsoft Access, [Vertabelo](https://www.red-gate.com/products/redgate-data-modeler/))]
+    * [KEY TOPIC 3, e.g., soon]
+    * [KEY TOPIC 4, e.g., soon]
 
 ## 🧪 Laboratory Work and Assignments
 
