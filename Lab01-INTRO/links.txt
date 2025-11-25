@@ -1,0 +1,44 @@
+PASSOW
+https://haslo.pja.edu.pl/
+
+IT Support Department 
+https://bss.pja.edu.pl/en/
+
+SFTP
+WinSCP
+https://winscp.net/download/WinSCP-6.5.3-Portable.zip/download
+Hostname sftp.pjwstk.edu.pl
+
+WWW
+https://users.pja.edu.pl/~sXXXXX
+
+VPN
+Windows
+https://bss.pja.edu.pl/en/docs/students/windows/vpnwindows/
+
+MacOS
+https://bss.pja.edu.pl/en/docs/students/macos/vpnmac/
+
+Linux
+https://bss.pja.edu.pl/en/docs/students/linux/vpnlinux/
+
+
+HORIZON
+https://view.pjwstk.edu.pl/
+
+OpenLab
+https://openlab.pjwstk.edu.pl/
+
+
+Linux Shell 
+Hostname msh.pjwstk.edu.pl
+SSH
+
+
+SOFTWARE
+https://software.pjwstk.edu.pl/
+
+GAKKO
+https://bss.pja.edu.pl/en/docs/students/gakko/
+https://gakko.pjwstk.edu.pl/dashboard
+
