@@ -27,7 +27,7 @@ The table below provides a quick overview and links to each completed assignment
 | **5** | `Lab05-EXCEL` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./Lab05-EXCEL) |
 | **6** | `Lab06-EXCEL` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./Lab06-EXCEL) |
 | **7** | `Lab07-EXCEL` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./Lab07-EXCEL) |
-| **8** | `Lab08-DATABASES` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./Lab08-DATABASES) |
+| **8** | `Lab08-DB` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./Lab08-DATABASES) |
 | **9** | `Lab09-SQL` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./Lab03-SQL) |
 | **[FINAL]** | `Final-Project` | [Final Project Title, e.g., E-commerce Schema Design] | Completed | [Link to Final Project](./Final-Project) |
 | **...** | | | | |
