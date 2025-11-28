@@ -45,7 +45,7 @@ To view the files correctly, ensure you have:
 ## 📬 Contact
 
 **LYSENKOV Maksym** (s35066)
-* [LinkedIn Profile](LINK_HERE)
-* [GitHub Profile](LINK_HERE)
+* [LinkedIn Profile](https://pl.linkedin.com/in/maksym-lysenkov-7a48a6362)
+* [GitHub Profile](https://github.com/NaviOldManTop)
 
 *(Created as part of the academic curriculum at PJATK, 2024/2025)*
