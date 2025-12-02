@@ -1,30 +1,53 @@
 # 📚 WSI | First Studies
 
-This repository contains all my laboratory work, assignments, and projects for the **Wprowadzenie do Systemow Informacyjnych** course taken during the **First** semester (First) at the Polish-Japanese Academy of Information Technology (PJATK).
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PJATK](https://img.shields.io/badge/PJATK-blue?style=for-the-badge)
+
+This repository contains all my laboratory work, assignments, and projects for the **Wprowadzenie do Systemow Informacyjnych** (Introduction to Information Systems) course taken during the **First Semester** at the Polish-Japanese Academy of Information Technology (PJATK).
 
 ---
 
 ## 📌 Course Overview
 
 * **Course Code:** `WSI-17`
-* **Instructor; Lecturer:** Piotr Tronczyk; Piotr Gago
+* **Lecturer:** Piotr Gago | **Instructor:** Piotr Tronczyk
 * **Key Focus Areas:**
-    * [KEY TOPIC 1, e.g., Advanced Excel using (Functions, Graphs, Macros)]
-    * [KEY TOPIC 2, e.g., Database Design (Microsoft Access, [Vertabelo](https://www.red-gate.com/products/redgate-data-modeler/))]
-    * [KEY TOPIC 3, e.g., soon]
-    * [KEY TOPIC 4, e.g., soon]
+    * 📊 **Advanced Excel:** Complex functions (`VLOOKUP`, `IF`), Pivot Tables, Charts, and VBA Macros.
+    * 🗂️ **Database Design:** Relational theory, ERD modeling (Vertabelo), and Normalization.
+    * 💾 **SQL:** Writing queries to manipulate and retrieve data (DDL & DML).
 
-## 🧪 Laboratory Work and Assignments
+## ⚙️ Prerequisites
 
-The table below provides a quick overview and links to each completed assignment.
-
-| Lab No. | Folder | Topic/Goal | Status | Solution Files |
-| :---: | :---: | :--- | :---: | :---: |
-| **1** | `Lab01-Setup` | Initial database setup and basic DDL/DML. | Completed | [Link to Lab 01](./Lab01-Setup) |
-| **2** | `[FOLDER NAME]` | [Brief description of Lab 2] | Completed | [Link to Lab 02](./[FOLDER NAME]) |
-| **3** | `[FOLDER NAME]` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./[FOLDER NAME]) |
-| **[FINAL]** | `Final-Project` | [Final Project Title, e.g., E-commerce Schema Design] | Completed | [Link to Final Project](./Final-Project) |
-| **...** | | | | |
+To view the files correctly, ensure you have:
+* **Microsoft Excel** (Office 365 / 2019+)
+* **Microsoft Access** + any SQL viewer for Database labs.
+* **Vertabelo** (Online tool) for ERD diagrams.
+* A PDF Viewer (for reports)
 
 ---
-*(This repository is maintained by LYSENKOV Maksym s35066 as part of my academic journey at PJATK.)*
+
+## 🧪 Laboratory Work
+
+| Lab | Topic | Key Concepts / Skills | Link |
+| :-: | :--- | :--- | :-: |
+| **01** | **Intro** | Introduction to subject & rules | [📂](./Lab01-INTRO) |
+| **02** | **Git** | Version control basics (GitHub) | [📂](./Lab02-GIT) |
+| **03** | **Excel I** | Basic formulas & formatting | [📂](./Lab03-EXCEL) |
+| **04** | **Excel II** | Conditional formatting & Data validation | [📂](./Lab04-EXCEL) |
+| **05** | **Excel III** | Logical functions & Lookups | [📂](./Lab05-EXCEL) |
+| **06** | **Excel IV** | Pivot Tables & Dashboards | [📂](./Lab06-EXCEL) |
+| **07** | **Excel V** | Macros & Solver Add-in | [📂](./Lab07-EXCEL) |
+| **08** | **Databases** | ERD Design & Relationships | [📂](./Lab08-DATABASES) |
+| **09** | **SQL** | Basic Queries (`SELECT`, `JOIN`) | [📂](./Lab09-SQL) |
+| **Final** | **Project** | Full Database System Design | [📂](./Final-Project) |
+
+---
+
+## 📬 Contact
+
+**LYSENKOV Maksym** (s35066)
+* [LinkedIn Profile](https://pl.linkedin.com/in/maksym-lysenkov-7a48a6362)
+* [GitHub Profile](https://github.com/NaviOldManTop)
+
+*(Created as part of the academic curriculum at PJATK, 2025/2026)*
