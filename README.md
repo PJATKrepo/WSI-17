@@ -1,5 +1,6 @@
 # 📚 WSI | First Studies
 
+![Word](https://img.shields.io/badge/Microsoft_Word-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PJATK](https://img.shields.io/badge/PJATK-blue?style=for-the-badge)
