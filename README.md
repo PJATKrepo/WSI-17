@@ -1,5 +1,6 @@
 # 📚 WSI | First Studies
 
+![Word](https://img.shields.io/badge/Microsoft_Word-000099?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PJATK](https://img.shields.io/badge/PJATK-blue?style=for-the-badge)
@@ -40,7 +41,7 @@ To view the files correctly, ensure you have:
 | **07** | **Excel V** | Macros & Solver Add-in | [📂](./Lab07-EXCEL) |
 | **08** | **Databases** | ERD Design & Relationships | [📂](./Lab08-DATABASES) |
 | **09** | **SQL** | Basic Queries (`SELECT`, `JOIN`) | [📂](./Lab09-SQL) |
-| **Final** | **Project** | Full Database System Design | [📂](./Final-Project) |
+| **Final** | **Project** | Not yet | [📂](./Final-Project) |
 
 ---
 
